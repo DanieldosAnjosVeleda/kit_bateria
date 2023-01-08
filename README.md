@@ -1,7 +1,6 @@
 <h1>:notes: Kit Bateria</h1>
 <p>Projeto simples utilizando JavaScript. Primeiro projeto fruto de estudos sobre DOM.</p>
 <p>Link para acessar a página: <a href="https://danieldosanjosveleda.github.io/kit_bateria/">página.</a></p>
-<p>Link para acessar o repositório: <a href="">repositório.</a></p>
 <br>
 
 <h2>:page_with_curl: Como funciona o projeto:</h2>
